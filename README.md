@@ -47,7 +47,7 @@ Some of the tags, like `header` and `footer`, should be repeated over all the pa
 
 Make sure the list items in the `ul` inside `nav` links to all the other pages.
 
-Use images from the `media` folder as well as the logo in the `icon` folder, in addition use the following image on one of the pages with the absolute link to its current location: http://www.geek.no/noroff/HTML101/media/dilbert.1494.strip.gif
+Use images from the `media` folder as well as the logo in the `icon` folder, in addition use the following image on one of the pages with the absolute link to its current location: https://www.geek.no/noroff/HTML101/media/dilbert.1494.strip.gif
 
 Deploy the page to a new Netlify-site.
 
